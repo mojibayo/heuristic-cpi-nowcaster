@@ -1,5 +1,3 @@
-# CPI Nowcaster
-
 **A lightweight, real-time market-implied CPI nowcaster** built in Python.
 
 It calculates a 30-day weighted performance of inflation-sensitive assets (energy, food, metals, housing, used cars, consumer demand, and the dollar) and compares it against your CPI forecast to generate a directional trading signal.
