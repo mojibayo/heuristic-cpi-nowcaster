@@ -25,12 +25,3 @@ Created in October 2025 as a fast macro filter for CPI prints.
 ```bash
 pip install yfinance pandas matplotlib
 ```
-
----
-
-- "Alpha" can probably be built around it, as seen below:
-<img width="820" height="858.5" alt="image" src="https://github.com/user-attachments/assets/1e806cc9-3857-4466-81f2-9b958679e96b" />
-
-
-
-
